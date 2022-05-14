@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CityFinder</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="search_failed">Search failed!</string>
+    <string name="wrong_coordinates_format">Wrong coordinates format!</string>
+    <string name="value_out_of_range">Value out of range! |90|, |180|</string>
+    <string name="nothing_for_this_coordinates">Nothing for this coordinates</string>
+</resources>
